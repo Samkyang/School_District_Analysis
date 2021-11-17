@@ -5,19 +5,21 @@
 ## Results:
 #### Here is an analysis of how the seven different metrics were affected when the 9th graders from Thomas High Schools grades were removed.
 
-##### 1. Change in number of students at Thomas High School
+1. Change in number of students at Thomas High School
 
-   a.	 
-
+   a.	 ![1AB](https://user-images.githubusercontent.com/92561003/142144024-9db6a57d-79e7-43e9-84c1-7366114df5f3.png)
+   
    b. We see here when we removed the 9th grade students from total summary it brings the student count from 1635 to 1174.
-
+   
    c. The way this was done was by setting conditions that the school name is equal to “Thomas High School” and to not count students in the 9th grade.
+
+
 2.	District Summary
 
    a.	Before 
-
+   
    b.	After 
-
+   
    c.	There was a slight drop in the average math and reading scores which also dropped the passing percentages.
 
 3.	School Summary
