@@ -58,9 +58,11 @@ dropped, this changed the total amount of students which made the categories go 
 6.	Scores by School Type
 
       a.	School Type Before 
+      
       ![School Type Before](https://user-images.githubusercontent.com/92561003/142146706-77014ed3-e278-45c1-bdff-b641d2d16def.png)
 
       b.	School Type After 
+      
       ![School Type After](https://user-images.githubusercontent.com/92561003/142146721-abd3a353-9652-4a53-a78e-ceded1cd2962.png)
 
       c.	In the school types we can see that the average passing scores go up but the passing percentages go down because there are less students in the district. Another thing to point out is that if the totals were not shown out to the millionth and kept at whole numbers, it would look like there was no change.
